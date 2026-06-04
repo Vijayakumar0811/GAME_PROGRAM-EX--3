@@ -41,8 +41,3 @@ To replace the default third person character mesh with a custom skeletal mesh a
 The default Third Person Character was successfully replaced with a custom skeletal mesh. The assigned Animation Blueprint enabled smooth idle, walk, run, and jump animations during gameplay.
 
 
-
-
-
-## Result
-The default Third Person C
